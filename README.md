@@ -56,7 +56,9 @@
 
 ## 📁 项目结构
 emos-mihomo-config/
+
 ├── mihomoScript-emos.js ← 主覆写脚本（含 emos 专用规则）
+
 └── README.md ← 本说明文档
 
 如需自行修改规则，请 fork 本仓库后编辑 `mihomoScript-emos.js` 中的 `ruleProviders` 对象。
