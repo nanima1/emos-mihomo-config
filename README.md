@@ -18,18 +18,18 @@
 
 ### 💻 PC 端（Clash Party）
 
-1. 启动 [**Clash Party**](https://github.com/mihomo-party-org/clash-party) 客户端[reference:0]
+1. 启动 [**Clash Party**](https://github.com/mihomo-party-org/clash-party) 客户端
 2. 进入**覆写**页面
-3. 点击 **新建** 或 **导入** 按钮[reference:1]
+3. 点击 **新建** 或 **导入** 按钮
 4. 选择 **链接导入** 或 **从 URL 导入**
 5. 输入本仓库的覆写脚本链接：https://raw.githubusercontent.com/nanima1/emos-mihomo-config/main/mihomoScript-emos.js
-6. 确认保存后，前往**订阅管理**，将本次导入的覆写脚本**绑定**到你正在使用的 Mihomo 订阅上[reference:2]
+6. 确认保存后，前往**订阅管理**，将本次导入的覆写脚本**绑定**到你正在使用的 Mihomo 订阅上
 
 > ⚠️ 绑定后请**手动更新一次订阅**，使覆写规则生效。
 
 ### 📱 安卓端（FlClash）
 
-1. 打开 [**FlClash**](https://github.com/chen08209/FlClash) 客户端[reference:3]
+1. 打开 [**FlClash**](https://github.com/chen08209/FlClash) 客户端
 2. 点击底部导航栏 **配置**
 3. 点击页面顶部的 **覆写** 标签页
 4. 点击右下角 **添加** → 选择 **通过 URL 导入**
