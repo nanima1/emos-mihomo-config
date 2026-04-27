@@ -1,4 +1,4 @@
-# Mihomo 分流脚本
+# Mihomo-emos 分流脚本
 
 此脚本为 [Mihomo](https://github.com/MetaCubeX/mihomo) 生成完整的代理规则配置。
 
