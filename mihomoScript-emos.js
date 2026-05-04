@@ -510,6 +510,7 @@ const serviceConfigs = [
       'RULE-SET,emby_ip,Emby,no-resolve',
       'DOMAIN-KEYWORD,emby,Emby',
     ],
+    direct: true,
   },
   {
     key: 'spotify',
